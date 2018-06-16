@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/MiJavaModule1/MiJavaModule1.iml" filepath="$PROJECT_DIR$/MiJavaModule1/MiJavaModule1.iml" />
       <module fileurl="file://$PROJECT_DIR$/mi-repo-git.iml" filepath="$PROJECT_DIR$/mi-repo-git.iml" />
     </modules>
   </component>
